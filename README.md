@@ -2,7 +2,7 @@
 
 In this repo you can see a static map of Milan, Italy, working without external services (except the CDN for the Javascript libraries, also optional).
 
-Also see the [article with the tehnical explanation](https://jacopofarina.eu/posts/static-maps-part-2-vector-tiles/)
+Also see the [article with the technical explanation](https://jacopofarina.eu/posts/static-maps-part-2-vector-tiles/)
 
 ## Usage
 
